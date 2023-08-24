@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/0123liskigi/Destruction-Simulator/work/DESTRUCTION!.lua"))()
